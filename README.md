@@ -3,8 +3,12 @@ Selection of Python Codes Related to Economics, Finance, and Accounting.
 
 Based on the books:
 
-* Python for Accounting: A modern Guide Python Programming in Accounting, by Horatio Bota.
+* 1 - Python for Accounting: A modern Guide Python Programming in Accounting, by Horatio Bota.
 
-* Time Series Forecasting in Python, by Marco Peixeiro.
+* 2 - Time Series Forecasting in Python, by Marco Peixeiro.
+
+* 3 - Mastering Time Series Analysis and Forecasting with Python, by Sulekha Aloorravi
 
 * Applied Time Series Analysis and Forecasting with Python, by Huang & Petukhina
+
+
