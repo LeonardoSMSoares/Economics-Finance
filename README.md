@@ -8,3 +8,5 @@ Based on the books:
 * Time Series Forecasting in Python, by Marco Peixeiro.
 
 * Applied Time Series Analysis and Forecasting with Python, by Huang & Petukhina
+
+* Practical Time Series Analysis, by Aileen Nielsen
