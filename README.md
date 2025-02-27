@@ -9,4 +9,4 @@ Based on the books:
 
 * Applied Time Series Analysis and Forecasting with Python, by Huang & Petukhina
 
-* Practical Time Series Analysis, by Aileen Nielsen
+* Mastering Time Series Analysis and Forecasting with Python, by Sulekha Aloorravi
