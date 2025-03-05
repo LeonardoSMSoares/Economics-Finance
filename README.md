@@ -9,6 +9,6 @@ Based on the books:
 
 * 3 - Mastering Time Series Analysis and Forecasting with Python, by Sulekha Aloorravi
 
-* Applied Time Series Analysis and Forecasting with Python, by Huang & Petukhina
+* 4 - Applied Time Series Analysis and Forecasting with Python, by Huang & Petukhina
 
 
