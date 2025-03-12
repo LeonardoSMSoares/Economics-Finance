@@ -11,4 +11,4 @@ Based on the books:
 
 * 4 - Applied Time Series Analysis and Forecasting with Python, by Huang & Petukhina
 
-
+* 5 - Time Series Analysis in Python, DataCamp course
