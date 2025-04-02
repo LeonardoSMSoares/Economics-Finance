@@ -15,4 +15,6 @@ Based on the books:
 
 * 6 - Séries Temporais com Prophet: Análise e Previsão de Dados com Python, by Allan Spadin;
 
-* 7 - Time Series Analysis with Python Cookbook, by Tarek Atwan.
+* 7 - Time Series Analysis with Python Cookbook, by Tarek Atwan;
+
+* 8 - Introduction to Time Series Analysis, by Douglas C. Montgomery.
